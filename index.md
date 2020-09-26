@@ -12,6 +12,9 @@
 
 ---
 
+ #### Herukan/ZyonicSoftware (c) 2020
+
+
 | Websiten | Information |
 | ------ | ------ |
 | Twitter | [@Herukan](https://twitter.com/herukan) |
