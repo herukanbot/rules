@@ -12,4 +12,4 @@
 
 ---
 
-###### Herukan/ZyonicSoftware (c) 2020
+###### Herukan/ZyonicSoftware © 2020
