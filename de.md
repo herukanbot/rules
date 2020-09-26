@@ -1,6 +1,7 @@
-##### tz
+
 ---
-# __**Herukan Community-Richtlinien**__
+
+# **Herukan Community-Richtlinien**
 ##### **Zuletzt aktualisiert: 26. September 2020.**
 ### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
 
