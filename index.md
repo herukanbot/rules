@@ -12,11 +12,11 @@
 
 ---
 
-| Plugin | README |
+| Websiten | Information |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Twitter | [@Herukan](https://twitter.com/herukan) |
+| Instragram | [@herukanbot](https://instagram.com/herukanbot) |
+| Github | [@Herukan](https://github.com/herukanbot) |
+| Discord | [Herukan Official](https://twitter.com/herukan) |
+| Website | [www.herukan.xyz](https://herukan.xyz) |
+| Dashboard | **coming soon...** |
