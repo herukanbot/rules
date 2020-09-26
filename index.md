@@ -1,8 +1,6 @@
 # **Herukan Official Rules**
 
-> jdhjgfdhjghdgjdghjdgjhdgjjdghjhdgjj
-> dgjdghjdgjdgjgj
-> dghjdghjdgjgj
+> These rules are mandatory for all users. By participating in our chats you automatically agree to our rules. In case of a rule violation the Herukan Moderator Team will take appropriate measures.
 
   - ##### EN - English
   - ##### DE - Deutsch
@@ -12,13 +10,7 @@
   - ##### JP - にほんご
   - ##### CN - 中文
 
-## Code:
-
-```java
- var herukan = bester Discord Bot;
-```
-
-# --------------------------------------------------------------------------------------------------
+---
 
 # Dillinger
 
