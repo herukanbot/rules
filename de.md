@@ -13,10 +13,15 @@ Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizit
 3. **NSFW, NSFL oder andere verstörende oder pornografische Inhalte sind absolut verboten.**
 Da Discord ab 13 ist gibt es Benutzer auf diesem Server die noch nicht für bestimmte Inhalte zugelassen sind. Wir bitten daher jegliche Inhalte die nicht für Minderjährige geeignet sind zumeiden, und andern Falls dem Herukan-Moderatorteam zu melden.
 
-4. Es ist verboten,Blockierungen oder Serverbanns zu umgehen.
+4. Es ist verboten, Blockierungen oder Serverbanns zu umgehen.
 Versuche nicht, deine Identität zu verbergen um nach einem Ban erneut auf diesen Server zugelangen. Missbrauch von Accounts wird ebendfalls an das Discord team weitergeleitet.
 
-5. 
+5. **Handel mit Geld oder Wertgegenständen in jeglicher Form ist strikt untersagt.**
+Hierzu zählen auch das austauschen von PaySaveCards oder ähnlichen Geld Gutscheinen.
+
+6. **Teile keine Inhalte, die das geistige Eigentum oder andere Rechte anderer Personen verletzen.**
+Jede Person hat nach dem erstellen eines Bildes, Textes oder Musikstücks ein geistige Eigentum auf dieses Werk. Ein solches Werk ohne explizite Einwilligung des Eigentümers zuverbreiten ist verboten.
+
 ---
 
 ###### Herukan/ZyonicSoftware © 2020
