@@ -1,6 +1,6 @@
 # **Herukan Official Rules**
 
-> These rules are mandatory for all users. By participating in our chats you automatically agree to our rules. In case of a rule violation the Herukan Moderator Team will take appropriate measures.
+> These rules are mandatory for all users. By participating in our chats you automatically agree to our rules. In case of a rule violation the Herukan Moderator Team will take appropriate measures. Click on one of the buttons below to read the rules in your language.
 
   - ##### [EN - English](https://herukanbot.github.io/rules/en)
   - ##### [DE - Deutsch](https://herukanbot.github.io/rules/de)
