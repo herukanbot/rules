@@ -15,7 +15,7 @@ Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negat
 
 ---
 
-### §0 !
+§0 !
 #### Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 ### §1 !
 #### Das HerukanTeam muss sich gegenüber den Mitgliedern keinesfalls rechtfertigen, dennoch wollen wir einen respektvollen Umgang! 
