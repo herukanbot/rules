@@ -4,9 +4,15 @@
 
 
 1. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
-1.1 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
-2.
-3.
+Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
+
+2.**Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
+Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
+
+3.**Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
+Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
+
+
 ### §0 !
 #### Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 ### §1 !
