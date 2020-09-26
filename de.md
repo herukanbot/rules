@@ -1,6 +1,25 @@
 ### §0 !
 Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 
+### §1 !
+Das HerukanTeam muss sich gegenüber den Mitgliedern keinesfalls rechtfertigen, dennoch wollen wir einen respektvollen Umgang! 
+
+### §2 !
+Ein freundlicher Umgang mit anderen Usern ist uns sehr wichtig. Verbale Angriffe gegen andere Discordbenutzer sind strengstens untersagt, und ein permanenter Bann kann schnell die Folge sein! 
+
+
+### §0 !
+Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
+
+
+### §0 !
+Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
+
+
+### §0 !
+Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
+
+
 
 # Dillinger
 
