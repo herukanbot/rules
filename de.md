@@ -15,6 +15,8 @@ Da Discord ab 13 ist gibt es Benutzer auf diesem Server die noch nicht für best
 
 ---
 
+###### Herukan/ZyonicSoftware © 2020
+
 §0 !
 #### Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 ### §1 !
