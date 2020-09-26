@@ -13,13 +13,3 @@
 ---
 
  #### Herukan/ZyonicSoftware (c) 2020
-
-
-| Websiten | Information |
-| ------ | ------ |
-| Twitter | [@Herukan](https://twitter.com/herukan) |
-| Instragram | [@herukanbot](https://instagram.com/herukanbot) |
-| Github | [@Herukan](https://github.com/herukanbot) |
-| Discord | [Herukan Official](https://twitter.com/herukan) |
-| Website | [www.herukan.xyz](https://herukan.xyz) |
-| Dashboard | **coming soon...** |
