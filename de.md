@@ -6,10 +6,10 @@
 1. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
 
-2.**Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
+2. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
 
-3.**Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
+3. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
 
 
