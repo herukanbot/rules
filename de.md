@@ -1,8 +1,6 @@
 # **Herukan Official Rules**
 
-##### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
-
----
+#### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
 
 > ### §0 !
 Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
