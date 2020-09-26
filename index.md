@@ -1,5 +1,9 @@
 # **Herukan Official Rules**
 
+>>> jdhjgfdhjghdgjdghjdgjhdgjjdghjhdgjj
+dgjdghjdgjdgjgj
+dghjdghjdgjgj
+
   - ##### EN - English
   - ##### DE - Deutsch
   - ##### FR - Français
