@@ -1,3 +1,7 @@
+# **Herukan Official Rules**
+
+> These rules are mandatory for all users. By participating in our chats you automatically agree to our rules. In case of a rule violation the Herukan Moderator Team will take appropriate measures.
+
 ### §0 !
 Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 
