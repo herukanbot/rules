@@ -1,4 +1,4 @@
-## 1. §0 !
+### §0 !
 Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
 
 
