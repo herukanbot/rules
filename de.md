@@ -9,7 +9,7 @@
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
 
 2. **Es ist verboten, Volksverhetzung zu organisieren, zu fördern oder zu koordinieren.**
-Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizität, Herkunft, Geschlecht, Geschlechtsidentität, sexueller Orientierung, Religion oder Behinderung anzugreifen.
+Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizität, Herkunft, Geschlecht, Geschlechtsidentität, sexueller Orientierung, Religion oder Behinderung anzugreifen. Derartige Diskriminierung wird unverzüglich an das Discord Trust & Savety team weitergeleitet
 
 3. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
