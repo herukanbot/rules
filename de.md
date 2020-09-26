@@ -10,7 +10,7 @@ Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negat
 2. **Es ist verboten, Volksverhetzung zu organisieren, zu fördern oder zu koordinieren.**
 Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizität, Herkunft, Geschlecht, Geschlechtsidentität, sexueller Orientierung, Religion oder Behinderung anzugreifen. Derartige Diskriminierung wird unverzüglich an das Discord Trust & Savety team weitergeleitet
 
-3. **NSFW, NSFL oder andere verstörende oder pornografische Inhalte sind absolut verboten. **
+3. **NSFW, NSFL oder andere verstörende oder pornografische Inhalte sind absolut verboten.**
 Da Discord ab 13 ist gibt es Benutzer auf diesem Server die noch nicht für bestimmte Inhalte zugelassen sind. Wir bitten daher jegliche Inhalte die nicht für Minderjährige geeignet sind zumeiden, und andern Falls dem Herukan-Moderatorteam zu melden.
 
 ---
