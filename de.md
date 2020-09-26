@@ -22,19 +22,9 @@ Hierzu zählen auch das austauschen von PaySaveCards oder ähnlichen Geld Gutsch
 6. **Teile keine Inhalte, die das geistige Eigentum oder andere Rechte anderer Personen verletzen.**
 Jede Person hat nach dem erstellen eines Bildes, Textes oder Musikstücks ein geistige Eigentum auf dieses Werk. Ein solches Werk ohne explizite Einwilligung des Eigentümers zuverbreiten ist verboten.
 
+7. **Sende keine private Daten von dir oder einem anderen Benutzer auf diesen Server.**
+Datenschutz ist eine sehr wichtige Angelegenheit, daher teile nicht deine Telefonnummer, Wohnadresse oder Passwörter mit anderen Benutzern.
+
 ---
 
 ###### Herukan/ZyonicSoftware © 2020
-
-§0 !
-#### Das durchlesen der Regeln ist verpflichtent. Bei nicht Beachtung der Regeln werden gesonderte Strafen ausgesprochen.
-### §1 !
-#### Das HerukanTeam muss sich gegenüber den Mitgliedern keinesfalls rechtfertigen, dennoch wollen wir einen respektvollen Umgang! 
-### §2 !
-#### Ein freundlicher Umgang mit anderen Usern ist uns sehr wichtig. Verbale Angriffe gegen andere Discordbenutzer sind strengstens untersagt, und ein permanenter Bann kann schnell die Folge sein! 
-### §3 !
-#### Das betteln nach Rechten ist untersagt, ein Kick kann daher die Folge sein. Bewerben darf man sich jedoch sehr gerne.
-### §4 !
-#### Das bewerben seiner Social Media Accounts ist verboten, euren YT Kanal könnt ihr jedoch in dem Werbe Channel anwerben, sofern ihr den YouTuber Rang besitzt! 
-### §5 !
-Datenschutz ist uns ebenfalls sehr wichtig. Daher schreibt bitte NICHT eure Telefonnummer/Adresse/Passwörter etc. in die Text Channels! 
