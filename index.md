@@ -1,23 +1,12 @@
-# **Herukan Bot**
-[![Build Status](https://cdn.discordapp.com/attachments/655504751517237248/715518778015875144/Logopit_1590663333006.png)](https://herukan.xyz)
+# **Herukan Official Rules**
 
-# Features
-
-  - ##### Moderation
-  - ##### Information
-  - ##### Utility
-  - ##### Fun
-  - ##### Ticketing
-
-### Links:
-| Websiten | Information |
-| ------ | ------ |
-| Twitter | [@Herukan](https://twitter.com/herukan) |
-| Instragram | [@herukanbot](https://instagram.com/herukan) |
-| Github | [@Herukan](https://github.com/herukanbot) |
-| Discord | [Herukan Official](https://twitter.com/herukan) |
-| Website | [www.herukan.xyz](https://herukan.xyz) |
-| Dashboard | **coming soon...** |
+  - ##### EN - English
+  - ##### DE - Deutsch
+  - ##### FR - Français
+  - ##### BR - Brasileiro
+  - ##### ES - Español
+  - ##### JP - にほんご
+  - ##### CN - 中文
 
 ## Code:
 
