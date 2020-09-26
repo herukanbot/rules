@@ -1,3 +1,4 @@
+##### tz
 ---
 # __**Herukan Community-Richtlinien**__
 ##### **Zuletzt aktualisiert: 26. September 2020.**
@@ -7,7 +8,7 @@
 1. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
 
-2. **Es ist verboten, Server zur Organisation, Förderung oder Koordinierung von Volksverhetzung zu nutzen.**
+2. **Es ist verboten, Volksverhetzung zu organisieren, zu fördern oder zu koordinieren.**
 Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizität, Herkunft, Geschlecht, Geschlechtsidentität, sexueller Orientierung, Religion oder Behinderung anzugreifen.
 
 3. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
