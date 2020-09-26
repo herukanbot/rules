@@ -2,8 +2,8 @@
 
 > These rules are mandatory for all users. By participating in our chats you automatically agree to our rules. In case of a rule violation the Herukan Moderator Team will take appropriate measures.
 
-  - ##### EN - English
-  - ##### DE - Deutsch
+  - ##### [EN - English](https://herukanbot.github.io/rules/en)
+  - ##### [DE - Deutsch](https://herukanbot.github.io/rules/de)
   - ##### FR - Français
   - ##### BR - Brasileiro
   - ##### ES - Español
