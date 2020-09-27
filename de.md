@@ -2,7 +2,7 @@
 
 ##### **Zuletzt aktualisiert: 26. September 2020.**
 
-### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
+#### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
 
 1. **Es ist verboten, die Belästigung anderer Nutzer zu organisieren, daran teilzunehmen oder dazu aufzurufen.**
 Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negative Äußerungen können jedoch schnell zu Belästigungen werden und sind nicht okay.
