@@ -19,16 +19,16 @@ N'essayez pas de cacher votre identité afin de récupérer l'accès à ce serve
 5. **Il est strictement interdit d'effectuer des transactions avec de l'argent ou des objets de valeur sous quelque forme que ce soit.**
 Pour ce compte également l'échange de PaySaveCards ou de coupons d'argent similaires.
 
-6. **Ne partagez aucun contenu qui enfreint la propriété intellectuelle ou les droits d'autrui.
+6. **Ne partagez aucun contenu qui enfreint la propriété intellectuelle ou les droits d'autrui.**
 Toute personne a des droits de propriété intellectuelle sur cette œuvre après avoir créé une image, un texte ou un morceau de musique. Il est interdit de distribuer une telle œuvre sans l'autorisation explicite du propriétaire.
 
-7. **N'envoyez pas de données privées de votre part ou de celle d'un autre utilisateur à ce serveur.
+7. **N'envoyez pas de données privées de votre part ou de celle d'un autre utilisateur à ce serveur.**
 Le respect de la vie privée est une question très importante, aussi ne partagez pas votre numéro de téléphone, votre adresse personnelle ou vos mots de passe avec d'autres utilisateurs.
 
-8. **L'imitation, la tromperie et la diffusion de fausses informations ne sont pas autorisées.
+8. **L'imitation, la tromperie et la diffusion de fausses informations ne sont pas autorisées.**
 Il n'est pas permis de se faire passer pour quelqu'un d'autre. Cela vaut également pour les amis, les célébrités, les marques ou autres organisations, ainsi que pour les tentatives de tromper les autres sur votre identité. Il est interdit de diffuser délibérément des messages en chaîne ou de fausses informations qui pourraient causer un préjudice, comme le déni d'événements tragiques, des allégations médicales non fondées ou l'atteinte à l'intégrité d'un procès civil.
 
-9. **La publicité pour une association, une organisation ou un groupe n'est pas autorisée sans consentement.
+9. **La publicité pour une association, une organisation ou un groupe n'est pas autorisée sans consentement.**
 L'envoi d'un message publicitaire ou le soutien à un groupe particulier n'est pas autorisé sans le consentement d'un administrateur. Cela inclut les images, les adresses de sites web ou les textes qui encouragent ou incitent les gens à faire quelque chose. Les associations non commerciales et les projets qui servent une bonne cause en sont exclus.
 
 ---
