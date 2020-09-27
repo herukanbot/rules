@@ -1,35 +1,35 @@
-# **Herukan Community Guidelines**
+# **Lignes directrices de la Communauté Herukan**
 
-##### **Last updated: October 10, 2020.**
+##### **Dernière mise à jour : 10 octobre 2020.**
 
-### These rules are binding for all users. By participating in our chats you automatically agree to our rules. In case of a breach of the rules, the Herukan moderator team will take appropriate measures.
+### Ces règles sont contraignantes pour tous les utilisateurs. En participant à nos chats, vous acceptez automatiquement nos règles. En cas de violation des règles, l'équipe de modérateurs de Herukan prendra les mesures appropriées.
 
-1. **It is forbidden to organize, participate in or encourage harassment of other users.**
-Differences of opinion are normal. However, persistent, repeated or extremely negative comments can quickly become harassment and are not okay.
+1. **Il est interdit d'organiser, de participer ou d'encourager le harcèlement d'autres utilisateurs.**
+Les divergences d'opinion sont normales. Cependant, des commentaires persistants, répétés ou extrêmement négatifs peuvent rapidement devenir du harcèlement et ne sont pas acceptables.
 
-2. **It is prohibited to organize, promote or coordinate incitement of the people.**
-It is unacceptable to attack a person or community based on skin color, ethnicity, origin, gender, gender identity, sexual orientation, religion or disability. Any such discrimination will be reported immediately to the [Discord Trust & Savety team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
+2. **Il est interdit d'organiser, de promouvoir ou de coordonner l'incitation du peuple.**
+Il est inacceptable d'attaquer une personne ou une communauté sur la base de la couleur de la peau, de l'appartenance ethnique, de l'origine, du sexe, de l'identité sexuelle, de l'orientation sexuelle, de la religion ou d'un handicap. Toute discrimination de ce type sera immédiatement signalée à l'équipe de [Discord Trust & Savety](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
 
-3. **NSFW, NSFL or other disturbing or pornographic content is absolutely prohibited**
-Since Discord is in france from 15 years, there are users on this server who are not yet allowed for certain content. We therefore ask you to avoid any content that is not suitable for minors, and to report any other cases to the Herukan moderation team.
+3. **NSFW, NSFL ou tout autre contenu dérangeant ou pornographique est absolument interdit**
+Comme Discord est en France depuis 15 ans, il y a des utilisateurs sur ce serveur qui ne sont pas encore autorisés à accéder à certains contenus. Nous vous demandons donc d'éviter tout contenu qui ne convient pas aux mineurs, et de signaler tout autre cas à l'équipe de modération de Herukan.
 
-4. **It is forbidden to bypass blockages or server bans.**
-Do not try to hide your identity in order to regain access to this server after a ban. Abuse of accounts will also be reported to the Discord team.
+4. **Il est interdit de contourner les blocages ou les interdictions de serveur.**
+N'essayez pas de cacher votre identité afin de récupérer l'accès à ce serveur après un bannissement. Les abus de comptes seront également signalés à l'équipe Discordance.
 
-5. **Trading with money or valuables in any form is strictly prohibited.**
-For this count also the exchange of PaySaveCards or similar money coupons.
+5. **Il est strictement interdit d'effectuer des transactions avec de l'argent ou des objets de valeur sous quelque forme que ce soit.**
+Pour ce compte également l'échange de PaySaveCards ou de coupons d'argent similaires.
 
-6. **Don't share any content that infringes the intellectual property or rights of others.**
-Any person has intellectual property rights on this work after creating an image, text or piece of music. Distributing such a work without the explicit permission of the owner is prohibited.
+6. **Ne partagez aucun contenu qui enfreint la propriété intellectuelle ou les droits d'autrui.
+Toute personne a des droits de propriété intellectuelle sur cette œuvre après avoir créé une image, un texte ou un morceau de musique. Il est interdit de distribuer une telle œuvre sans l'autorisation explicite du propriétaire.
 
-7. **Do not send private data from you or any other user to this server.**
-Privacy is a very important issue, so do not share your phone number, home address or passwords with other users.
+7. **N'envoyez pas de données privées de votre part ou de celle d'un autre utilisateur à ce serveur.
+Le respect de la vie privée est une question très importante, aussi ne partagez pas votre numéro de téléphone, votre adresse personnelle ou vos mots de passe avec d'autres utilisateurs.
 
-8. **imitation, deception and spreading of false information is not allowed.**
-It is not allowed to pretend to be someone else. This also applies to friends, celebrities, brands or other organizations, as well as attempts to deceive others about your identity. Deliberately spreading chain messages or false information that could cause harm, such as denial of tragic events, unsubstantiated medical claims, or undermining the integrity of civil litigation, is prohibited.
+8. **L'imitation, la tromperie et la diffusion de fausses informations ne sont pas autorisées.
+Il n'est pas permis de se faire passer pour quelqu'un d'autre. Cela vaut également pour les amis, les célébrités, les marques ou autres organisations, ainsi que pour les tentatives de tromper les autres sur votre identité. Il est interdit de diffuser délibérément des messages en chaîne ou de fausses informations qui pourraient causer un préjudice, comme le déni d'événements tragiques, des allégations médicales non fondées ou l'atteinte à l'intégrité d'un procès civil.
 
-9. **Publicity in advertising for an association, organization or group is not permitted without consent.**
-Sending a message advertising or supporting a particular group is not allowed without the consent of an administrator. This includes pictures, website addresses or texts that encourage or entice people to do something. Excluded from this are non-commercial associations and projects that serve a good cause.
+9. **La publicité pour une association, une organisation ou un groupe n'est pas autorisée sans consentement.
+L'envoi d'un message publicitaire ou le soutien à un groupe particulier n'est pas autorisé sans le consentement d'un administrateur. Cela inclut les images, les adresses de sites web ou les textes qui encouragent ou incitent les gens à faire quelque chose. Les associations non commerciales et les projets qui servent une bonne cause en sont exclus.
 
 ---
 
