@@ -11,7 +11,7 @@ Las diferencias de opinión son normales. Sin embargo, los comentarios persisten
 Es inaceptable atacar a una persona o comunidad por el color de su piel, etnia, origen, género, identidad de género, orientación sexual, religión o discapacidad. Cualquier discriminación de este tipo será reportada inmediatamente al [Equipo de Discord y Seguridad](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
 
 3. **NSFW, NSFL u otro contenido perturbador o pornográfico está absolutamente prohibido**
-Como Discordia tiene 13 años o más, hay usuarios en este servidor que aún no están autorizados para ciertos contenidos. Por lo tanto, le pedimos que evite cualquier contenido que no sea adecuado para menores, y que informe de cualquier otro caso al equipo de moderación de Herukan.
+Como la Discordia está en España desde el 14, hay usuarios en este servidor que aún no están autorizados para ciertos contenidos. Por lo tanto, le pedimos que evite cualquier contenido que no sea adecuado para menores, y que informe de cualquier otro caso al equipo de moderación de Herukan.
 
 4. **Está prohibido eludir bloqueos o prohibiciones del servidor.**
 No intente ocultar su identidad para recuperar el acceso a este servidor después de una prohibición. El abuso de cuentas también será reportado al equipo de Discordia.
