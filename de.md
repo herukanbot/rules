@@ -11,7 +11,7 @@ Meinungsverschiedenheiten sind normal. Andauernde, wiederholte oder extrem negat
 Es ist inakzeptabel, eine Person oder Community aufgrund von Hautfarbe, Ethnizität, Herkunft, Geschlecht, Geschlechtsidentität, sexueller Orientierung, Religion oder Behinderung anzugreifen. Derartige Diskriminierung wird unverzüglich an das [Discord Trust & Savety Team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731) weitergeleitet.
 
 3. **NSFW, NSFL oder andere verstörende oder pornografische Inhalte sind absolut verboten.**
-Da Discord ab 13 ist gibt es Benutzer auf diesem Server die noch nicht für bestimmte Inhalte zugelassen sind. Wir bitten daher jegliche Inhalte die nicht für Minderjährige geeignet sind zumeiden, und andern Falls dem Herukan-Moderatorteam zu melden.
+Da Discord in Deutschland ab 16 ist gibt es Benutzer auf diesem Server die noch nicht für bestimmte Inhalte zugelassen sind. Wir bitten daher jegliche Inhalte die nicht für Minderjährige geeignet sind zumeiden, und andern Falls dem Herukan-Moderatorteam zu melden.
 
 4. **Es ist verboten, Blockierungen oder Serverbanns zu umgehen.**
 Versuche nicht, deine Identität zu verbergen um nach einem Ban erneut auf diesen Server zugelangen. Missbrauch von Accounts wird ebendfalls an das Discord team weitergeleitet.
