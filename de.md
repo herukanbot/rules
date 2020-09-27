@@ -26,7 +26,10 @@ Jede Person hat nach dem erstellen eines Bildes, Textes oder Musikstücks ein ge
 Datenschutz ist eine sehr wichtige Angelegenheit, daher teile nicht deine Telefonnummer, Wohnadresse oder Passwörter mit anderen Benutzern.
 
 8. **Imitation, Täuschung und Falschinformationen zu verbreiten sind nicht erlaubt.**
-Es ist nicht erlaubt, sich als jemand anderer auszugeben. Das gilt auch für Freunde, Promis, Marken oder andere Organisationen, sowie für Versuche, andere über deine Identität zu täuschen. Das absichtliche Verbreiten von Falschinformationen, die Schäden verursachen können, etwa das Leugnen tragischer Ereignisse, unbelegte medizinische Behauptungen oder das Untergraben der Integrität bürgerrechtlicher Prozesse, ist verboten.
+Es ist nicht erlaubt, sich als jemand anderer auszugeben. Das gilt auch für Freunde, Promis, Marken oder andere Organisationen, sowie für Versuche, andere über deine Identität zu täuschen. Das absichtliche Verbreiten von Kettennachrichten oder Falschinformationen, die Schäden verursachen können, etwa das Leugnen tragischer Ereignisse, unbelegte medizinische Behauptungen oder das Untergraben der Integrität bürgerrechtlicher Prozesse, ist verboten.
+
+9. **Werbung für einen Verein, Organisation oder einer Gruppe zu machen ist ohne Einwilligung nicht gestattet.**
+Das Senden einer Nachricht die Werbung für eine bestimmte Gruppe macht oder unterstützt ist ohne die Einwilligung eines Administrators nicht erlaubt. Hierzu zählen Bilder, Websiteadressen oder Texte die dazu anregen oder verleiten etwas zutun. Ausgeschloßen hiervon sind nicht kommerzielle Vereine und Projekte, die einem Guten Zweck dienen.
 
 ---
 
