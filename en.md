@@ -31,7 +31,6 @@ It is not allowed to pretend to be someone else. This also applies to friends, c
 9. **Publicity in advertising for an association, organization or group is not permitted without consent.**
 Sending a message advertising or supporting a particular group is not allowed without the consent of an administrator. This includes pictures, website addresses or texts that encourage or entice people to do something. Excluded from this are non-commercial associations and projects that serve a good cause.
 
-
 ---
 
 ###### Herukan/ZyonicSoftware © 2020
