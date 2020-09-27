@@ -25,6 +25,9 @@ Jede Person hat nach dem erstellen eines Bildes, Textes oder Musikstücks ein ge
 7. **Sende keine private Daten von dir oder einem anderen Benutzer auf diesen Server.**
 Datenschutz ist eine sehr wichtige Angelegenheit, daher teile nicht deine Telefonnummer, Wohnadresse oder Passwörter mit anderen Benutzern.
 
+8. **Imitation, Täuschung und Falschinformationen zu verbreiten sind nicht erlaubt.**
+Es ist nicht erlaubt, sich als jemand anderer auszugeben. Das gilt auch für Freunde, Promis, Marken oder andere Organisationen, sowie für Versuche, andere über deine Identität zu täuschen. Das absichtliche Verbreiten von Falschinformationen, die Schäden verursachen können, etwa das Leugnen tragischer Ereignisse, unbelegte medizinische Behauptungen oder das Untergraben der Integrität bürgerrechtlicher Prozesse, ist verboten.
+
 ---
 
 ###### Herukan/ZyonicSoftware © 2020
