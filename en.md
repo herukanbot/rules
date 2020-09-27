@@ -1,6 +1,6 @@
 # **Herukan Community Guidelines**
 
-##### **Last updated: October 26, 2020.**
+##### **Last updated: October 10, 2020.**
 
 ### These rules are binding for all users. By participating in our chats you automatically agree to our rules. In case of a breach of the rules, the Herukan moderator team will take appropriate measures.
 
