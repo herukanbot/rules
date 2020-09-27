@@ -8,7 +8,7 @@
 Differences of opinion are normal. However, persistent, repeated or extremely negative comments can quickly become harassment and are not okay.
 
 2. **It is prohibited to organize, promote or coordinate incitement of the people.**
-It is unacceptable to attack a person or community based on skin color, ethnicity, origin, gender, gender identity, sexual orientation, religion or disability. Any such discrimination will be reported immediately to the [Discord Trust & Savety Team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
+It is unacceptable to attack a person or community based on skin color, ethnicity, origin, gender, gender identity, sexual orientation, religion or disability. Any such discrimination will be reported immediately to the [Discord Trust & Savety team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
 
 3. **NSFW, NSFL or other disturbing or pornographic content is absolutely prohibited**
 Since Discord is 13 and up, there are users on this server who are not yet allowed for certain content. We therefore ask you to avoid any content that is not suitable for minors, and to report any other cases to the Herukan moderation team.
