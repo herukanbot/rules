@@ -9,6 +9,7 @@
   - ##### [ES - Español](https://herukanbot.github.io/rules/es)
   - ##### [JP - にほんご](https://herukanbot.github.io/rules/jp)
   - ##### [CN - 中文](https://herukanbot.github.io/rules/cn)
+  - ##### [KR - 한국어](https://herukanbot.github.io/rules/kr)
 
 ---
 
