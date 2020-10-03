@@ -1,6 +1,6 @@
 # **Herukan Community-Richtlinien**
 
-##### **Zuletzt aktualisiert: 26. September 2020.**
+##### **Zuletzt aktualisiert: 10. Oktober 2020.**
 
 ### Diese Regeln sind für alle Benutzer verbindlich. Mit der Teilnahme an unseren Chats erklären Sie sich automatisch mit unseren Regeln einverstanden. Im Falle eines Regelverstoßes wird das Herukan-Moderatorenteam entsprechende Maßnahmen ergreifen.
 
