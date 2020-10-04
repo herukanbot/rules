@@ -1,3 +1,6 @@
+/*
+Title: A Web Page Title
+*/
 # **Herukan Community-Richtlinien**
 
 ##### **Zuletzt aktualisiert: 10. Oktober 2020.**
