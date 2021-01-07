@@ -34,4 +34,4 @@ No se permite enviar un mensaje publicitario o de apoyo a un grupo en particular
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020
+###### Herukan/ZyonicSoftware © 2020 - 2021
