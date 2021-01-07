@@ -33,4 +33,4 @@ Discord는 한국에 14 세부터 존재하기 때문에이 서버에 아직 특
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020
+###### Herukan/ZyonicSoftware © 2020 - 2021
