@@ -33,4 +33,4 @@ Sending a message advertising or supporting a particular group is not allowed wi
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020
+###### Herukan/ZyonicSoftware © 2020 - 2021
