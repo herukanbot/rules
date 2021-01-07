@@ -33,4 +33,4 @@ Das Senden einer Nachricht die Werbung für eine bestimmte Gruppe macht oder unt
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020-2021
+###### Herukan/ZyonicSoftware © 2020 - 2021
