@@ -33,4 +33,4 @@
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020
+###### Herukan/ZyonicSoftware © 2020 - 2021
