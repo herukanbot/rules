@@ -33,4 +33,4 @@ O envio de uma mensagem publicitária ou de apoio a um determinado grupo não é
 
 ---
 
-###### Herukan/ZyonicSoftware © 2020
+###### Herukan/ZyonicSoftware © 2020 - 2021
