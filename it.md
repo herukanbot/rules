@@ -8,7 +8,7 @@
 Le differenze di opinione sono normali. Tuttavia, commenti persistenti, ripetuti o estremamente negativi possono rapidamente diventare molestie e non vanno bene.
 
 2. **E' proibito organizzare, promuovere o coordinare l'incitamento del popolo.**
-3. È inaccettabile attaccare una persona o una comunità in base al colore della pelle, all'etnia, all'origine, al sesso, all'identità di genere, all'orientamento sessuale, alla religione o alla disabilità. Qualsiasi discriminazione di questo tipo sarà segnalata immediatamente al [Discord Trust & Savety team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
+È inaccettabile attaccare una persona o una comunità in base al colore della pelle, all'etnia, all'origine, al sesso, all'identità di genere, all'orientamento sessuale, alla religione o alla disabilità. Qualsiasi discriminazione di questo tipo sarà segnalata immediatamente al [Discord Trust & Savety team](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
 
 3. **NSFW, NSFL o altri contenuti inquietanti o pornografici sono assolutamente vietati**
 Dal momento che Discord è a partire dai 13 anni, ci sono utenti su questo server che non sono ancora autorizzati a certi contenuti. Vi chiediamo quindi di evitare qualsiasi contenuto che non sia adatto ai minori, e di segnalare qualsiasi altro caso al team di moderazione di Herukan.
