@@ -11,6 +11,7 @@
   - ##### [CN - 中文](https://herukanbot.github.io/rules/cn)
   - ##### [KR - 한국어](https://herukanbot.github.io/rules/kr)
   - ##### [RU - русский](https://herukanbot.github.io/rules/ru)
+  - ##### [IT - Italiano](https://herukanbot.github.io/rules/it)
 
 ---
 
